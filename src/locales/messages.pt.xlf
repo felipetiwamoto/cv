@@ -510,5 +510,227 @@
         <target> Português </target>
       </segment>
     </unit>
+    <unit id="janeriwamoto_about_title">
+      <segment state="initial">
+        <source>SOBRE MIM</source>
+        <target>SOBRE MIM</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_computing_title">
+      <segment state="initial">
+        <source>Informática</source>
+        <target>Informática</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_computing_typing">
+      <segment state="initial">
+        <source> Digitação</source>
+        <target> Digitação</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_courses_fashion_design">
+      <segment state="initial">
+        <source> Design de moda</source>
+        <target> Design de moda</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_courses_marketing">
+      <segment state="initial">
+        <source> Marketing</source>
+        <target> Marketing</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_courses_time_spent_completed">
+      <segment state="initial">
+        <source> completo</source>
+        <target> completo</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_courses_title">
+      <segment state="initial">
+        <source>CURSOS</source>
+        <target>CURSOS</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_assemp_ended_at">
+      <segment state="initial">
+        <source> FEV 2014</source>
+        <target> FEV 2014</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_assemp_started_at">
+      <segment state="initial">
+        <source> JAN 2013</source>
+        <target> JAN 2013</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_bonfim_ended_at">
+      <segment state="initial">
+        <source> DEZ 2020</source>
+        <target> DEZ 2020</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_bonfim_started_at">
+      <segment state="initial">
+        <source> SET 2018</source>
+        <target> SET 2018</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_description_assemp">
+      <segment state="initial">
+        <source> Atuação nas rotinas administrativas, com pagamento de contas, acerto de despesas de viagens e organização de agendas. Atendimento telefônico e apoio à comunicação cotidiana, contribuindo para a organização dos compromissos e das demandas do setor.</source>
+        <target> Atuação nas rotinas administrativas, com pagamento de contas, acerto de despesas de viagens e organização de agendas. Atendimento telefônico e apoio à comunicação cotidiana, contribuindo para a organização dos compromissos e das demandas do setor.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_description_bonfim">
+      <segment state="initial">
+        <source> Atendimento ao cliente e apoio às rotinas de loja, com reposição de mercadorias para manter os produtos disponíveis ao público. Realização do fechamento de caixa, contribuindo para a organização das atividades diárias do estabelecimento.</source>
+        <target> Atendimento ao cliente e apoio às rotinas de loja, com reposição de mercadorias para manter os produtos disponíveis ao público. Realização do fechamento de caixa, contribuindo para a organização das atividades diárias do estabelecimento.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_description_faciap">
+      <segment state="initial">
+        <source> Apoio às rotinas dos setores de Recursos Humanos e Administrativo, auxiliando no atendimento às demandas internas. Controle de correspondências e atendimento telefônico, com recebimento e encaminhamento de informações aos responsáveis.</source>
+        <target> Apoio às rotinas dos setores de Recursos Humanos e Administrativo, auxiliando no atendimento às demandas internas. Controle de correspondências e atendimento telefônico, com recebimento e encaminhamento de informações aos responsáveis.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_description_lojacorr">
+      <segment state="initial">
+        <source> Atuação no suporte a corretores e no atendimento a clientes, com envio de notificações de parcelas e condução de negociações. Atendimento e resolução de chamados, auxiliando no esclarecimento de dúvidas e no encaminhamento das demandas operacionais.</source>
+        <target> Atuação no suporte a corretores e no atendimento a clientes, com envio de notificações de parcelas e condução de negociações. Atendimento e resolução de chamados, auxiliando no esclarecimento de dúvidas e no encaminhamento das demandas operacionais.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_faciap_ended_at">
+      <segment state="initial">
+        <source> JUL 2017</source>
+        <target> JUL 2017</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_faciap_started_at">
+      <segment state="initial">
+        <source> ABR 2014</source>
+        <target> ABR 2014</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_lojacorr_ended_at">
+      <segment state="initial">
+        <source> NOV 2023</source>
+        <target> NOV 2023</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_lojacorr_started_at">
+      <segment state="initial">
+        <source> SET 2021</source>
+        <target> SET 2021</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_original_description_assemp">
+      <segment state="initial">
+        <source> Pagamento de contas, acerto de viagens, organização de agendas e atendimento telefônico.</source>
+        <target> Pagamento de contas, acerto de viagens, organização de agendas e atendimento telefônico.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_original_description_bonfim">
+      <segment state="initial">
+        <source> Atendimento ao cliente, reposição de mercadorias e fechamento de caixa.</source>
+        <target> Atendimento ao cliente, reposição de mercadorias e fechamento de caixa.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_original_description_faciap">
+      <segment state="initial">
+        <source> Auxílio ao setor de RH, auxílio ao setor administrativo, controle de correspondência e atendimento telefônico.</source>
+        <target> Auxílio ao setor de RH, auxílio ao setor administrativo, controle de correspondência e atendimento telefônico.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_original_description_lojacorr">
+      <segment state="initial">
+        <source> Notificação de parcelas, auxílio a corretores, contato com clientes, negociação e resolução de chamados.</source>
+        <target> Notificação de parcelas, auxílio a corretores, contato com clientes, negociação e resolução de chamados.</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_experiences_title">
+      <segment state="initial">
+        <source>EXPERIÊNCIAS</source>
+        <target>EXPERIÊNCIAS</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_hero_name">
+      <segment state="initial">
+        <source> Jane Iwamoto</source>
+        <target> Jane Iwamoto</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_hero_role">
+      <segment state="initial">
+        <source> Analista de Operações</source>
+        <target> Analista de Operações</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_lang_english">
+      <segment state="initial">
+        <source> Inglês </source>
+        <target> Inglês </target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_lang_portuguese">
+      <segment state="initial">
+        <source> Português </source>
+        <target> Português </target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_languages_english">
+      <segment state="initial">
+        <source> Inglês</source>
+        <target> Inglês</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_languages_portuguese">
+      <segment state="initial">
+        <source> Português</source>
+        <target> Português</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_languages_title">
+      <segment state="initial">
+        <source>LINGUAGENS</source>
+        <target>LINGUAGENS</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_professional_communication">
+      <segment state="initial">
+        <source> Comunicação</source>
+        <target> Comunicação</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_professional_leadership">
+      <segment state="initial">
+        <source> Liderança</source>
+        <target> Liderança</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_professional_teamwork">
+      <segment state="initial">
+        <source> Trabalho em equipe</source>
+        <target> Trabalho em equipe</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_professional_time_management">
+      <segment state="initial">
+        <source> Organização do tempo</source>
+        <target> Organização do tempo</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_professional_title">
+      <segment state="initial">
+        <source>Profissional</source>
+        <target>Profissional</target>
+      </segment>
+    </unit>
+    <unit id="janeriwamoto_skills_title">
+      <segment state="initial">
+        <source>HABILIDADES</source>
+        <target>HABILIDADES</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

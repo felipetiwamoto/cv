@@ -6,4 +6,8 @@ export const routes: Routes = [
 		loadComponent: () =>
 			import('./features/resumes/pages/felipetiwamoto/felipetiwamoto').then((m) => m.FelipeTiwamoto),
 	},
+	{
+		path: 'jane-iwamoto',
+		loadComponent: () => import('./features/resumes/pages/janeriwamoto/janeriwamoto').then((m) => m.JaneRIwamoto),
+	},
 ];
