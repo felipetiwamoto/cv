@@ -1,1 +1,462 @@
-import{a as I,b as R,c as y,d as C,e as h}from"./chunk-K6VIZ7FM.js";import{$a as b,Aa as s,Ba as n,Ca as a,Da as r,Ea as A,Fa as w,Ja as _,La as t,Ma as z,Na as $,Ta as o,Ua as E,Xa as T,ab as P,ha as e,pa as f}from"./chunk-HPM24GUC.js";var g=class m{about=T();static ɵfac=function(c){return new(c||m)();};static ɵcmp=f({type:m,selectors:[["resume-about01"]],inputs:{about:[1,"about"]},decls:3,vars:6,template:function(c,l){if(c&1&&(A(0,"div")(1,"span"),z(2),w()()),c&2){let i,u="resume_about01";t(u),e(),t(o("",u,"__summary")),e(),$((i=l.about())==null?null:i.summary);}},styles:[".resume_about01__summary[_ngcontent-%COMP%]{font-size:12px;font-weight:300;letter-spacing:initial;line-height:initial;color:var(--grey7);display:block}"]});};var O=class m{localize=$localize;hero={name:"Felipe Iwamoto",role:"Senior Full-Stack Developer"};contacts=[{icon:"map-pin",description:"Brazil - Curitiba/PR"},{icon:"mail",description:"felipe.t.iwamoto@gmail.com"},{icon:"phone",description:"(11) 9.8455-6053"},{icon:"external-link",description:`felipetiwamoto.github.io/cv/${this.localize.locale}`}];about={summary:"Senior Full-Stack Developer with 9+ years of experience, specialized in Frontend with Angular 2+ and ReactJS. Expertise in creating scalable Design Systems, legacy migration, performance optimization, and automated testing implementation. Solid knowledge in TypeScript, RxJS, Redux, Node.js, and Clean Code/SOLID practices. Proven track record of technical leadership, team mentoring, and delivery of complex solutions in agile environments."};languages=[{name:"Portuguese",level:10},{name:"English",level:6},{name:"Japanese",level:4}];courses=[{institution:"Opet College",name:"Digital Games (Technical Degree)",timeSpent:" 1y"},{institution:"Udemy",name:"Web Development",timeSpent:"54h"},{institution:"Udemy",name:"Reactive programming",timeSpent:"17h"},{institution:"Udemy",name:"PHP/Laravel/Symfony",timeSpent:"115h"},{institution:"Udemy",name:"Angular 2+",timeSpent:"29h"},{institution:"Udemy",name:"React/Redux",timeSpent:"54h"},{institution:"Udemy",name:"NodeJS",timeSpent:"15h"},{institution:"Udemy",name:"Design Pattern",timeSpent:"29h"},{institution:"Udemy",name:"SOLID",timeSpent:"5h"},{institution:"Udemy",name:"UI/UX Design",timeSpent:"77h"}];frontend=[{name:"Angular 2+ (v18)",level:9},{name:"ReactJS",level:8},{name:"JavaScript",level:7},{name:"TypeScript",level:7},{name:"RxJS",level:7},{name:"Redux",level:6},{name:"HTML5",level:9},{name:"CSS3 / SCSS",level:9},{name:"Jest",level:5},{name:"Docker / CI/CD",level:5}];backend=[{name:"PHP",level:5},{name:"Laravel",level:5},{name:"Symfony",level:5},{name:"NodeJS",level:7},{name:"SQL",level:5},{name:"SOLID",level:6},{name:"Design Pattern",level:5}];experiences=[{company:"Banco BS2",startedAt:"SEP 2022",endedAt:" JAN 2026",responsabilities:["Architecture and development of corporate Design System with Angular 18.","Leadership in migration of legacy applications (Angular 12 \u2192 18).","Implementation of internationalization (i18n) and performance optimization.","Technical mentoring and Code Reviews focused on Clean Code and SOLID."],softSkills:["Technical Leadership;","Problem Solving;","Effective Communication;"],hardSkills:["Technical courses;"],description:"As a Senior Developer, I led the Frontend architecture, creating a robust Design System (components, directives, pipes) that standardized multiple bank products. Executed complex Angular version migrations, ensuring zero downtime. Implemented i18n strategies for global support (PT/EN/ZH) and promoted a code quality culture through mentoring and internal workshops."},{company:"Tagme",startedAt:"JUN 2021",endedAt:"AUG 2022",responsabilities:["Frontend Technical Leadership in new projects (Greenfield).","Definition of scalable architecture and technology choices.","Onboarding and technical training of the development team."],softSkills:["Technical Leadership;","Proactivity;"],hardSkills:["Technical courses;"],description:"Led the front-end team in the creation of a new project, working as a Senior Developer with a technical and architectural focus. Mentored new collaborators and conducted internal talks to train the team on technologies and best practices."},{company:"Bitknot",startedAt:" JAN 2021",endedAt:" APR 2021",responsabilities:["Full-Stack Development in international environment (Japan).","Legacy systems modernization and Landing Pages creation."],softSkills:[" Adaptabilidade Cultural;","Global Remote Work;"],description:" Worked as a freelance developer for 4 months in a 100% Japanese team, developing everything from simple landing pages to maintaining and improving more complex systems. Experience with both legacy systems and modern applications, collaborating in a multicultural environment while following high technical and quality standards."},{company:"Tuxon",startedAt:" FEB 2020",endedAt:" NOV 2020",responsabilities:["Maintenance of existing systems.","Development of new features.","Creation of projects from scratch."],softSkills:[" Capacidade de persuas\xE3o;","Proactivity;","Ability to work under pressure;","Analytical skills;"],hardSkills:["Technical courses;"," habilidades ligadas \xE0 inform\xE1tica."],description:"Maintenance of existing systems, development of new features, and creation of projects from scratch. Proactive profile, with strong analytical skills, ability to work under pressure, and good communication for technical alignment with the team."},{company:"Interlink",startedAt:" OCT 2019",endedAt:" FEB 2020",responsabilities:["Implementation of state architecture with Redux from scratch.","Full-Stack Development (ReactJS + Node.js) for American market."],softSkills:[" Ingl\xEAs Fluente;","Autonomy;"],description:"Full-Stack Developer in international project (USA). Designed and implemented the entire state management layer with Redux, solving complex data flow problems. Worked on both Frontend (React) and Backend, ensuring application integrity and scalability."},{company:"4You2 Idiomas",startedAt:"APR 2019",endedAt:"SEP 2019",responsabilities:["Mentoring new collaborators.","Maintenance of existing systems.","Development of new features.","Creation of projects from scratch."],softSkills:["Proactivity;","Ability to work under pressure;","Technical Leadership;","Analytical skills;"],hardSkills:["Knowledge of a foreign language;","Technical courses;"],description:"Work on the maintenance and evolution of existing systems, development of new features, and creation of projects from scratch. Strong experience using English on a daily basis, participating in dailies and technical alignments with native speakers, understanding requirements directly with the international team, and performing continuous implementations and adjustments. Active role in mentoring new collaborators, supporting onboarding, technical guidance, and professional growth, with a proactive, analytical profile and a strong sense of leadership."},{company:"SPRO IT Solutions",startedAt:"SEP 2018",endedAt:"APR 2019",responsabilities:["Maintenance of existing systems.","Development of new features.","Creation of projects from scratch."],softSkills:["Proactivity;","Ability to work under pressure;","Analytical skills;"],hardSkills:["Technical courses;"],description:"Worked on the maintenance of existing systems, development of new features, and creation of projects from scratch, with a strong focus on process automation. Mapped and understood manual tasks that previously took days or weeks to complete, creating automations that reduced execution time to seconds, significantly accelerating workflows and directly supporting other areas of the company."},{company:"DevMaker",startedAt:"OCT 2017",endedAt:"SEP 2018",responsabilities:["Maintenance of existing systems.","Development of new features.","Creation of projects from scratch."],softSkills:["Proactivity;","Ability to work under pressure;","Analytical skills;"],hardSkills:["Technical courses;"],description:"Despite holding a junior position, I identified a high project demand and the team\u2019s difficulty in maintaining the delivery pace. In alignment with the design team, I led the standardization of the company\u2019s components, creating reusable variations applied across all new projects. To enable this initiative, I conducted an in-depth study of frameworks such as Bootstrap, Material, and Semantic UI, developing a solution tailored to the company\u2019s needs, which contributed to reducing overtime and weekend work."},{company:"01Tec",startedAt:"APR 2015",endedAt:"SEP 2016",responsabilities:["Maintenance of existing systems.","Creation of projects from scratch."],softSkills:["Proactivity;","Analytical skills;"],hardSkills:["Technical courses;"],description:"Internship experience where I started with basic knowledge in programming logic and evolved into full web development, learning HTML, CSS, JavaScript, jQuery, PHP, and MySQL, in addition to creating themes for WordPress. After the internship period, I worked as a freelancer for the company for a few months, contributing to additional projects."},{company:" Community Services",startedAt:"APR 2015",endedAt:"SEP 2016",responsabilities:[" Teaching programming (Lovelace Project)"," Giving talks."," Distributing blankets."," Distributing food."," Teaching music classes."," Helping people with moving."," Open-air music and theater performances."],description:" Volunteered in community initiatives, including teaching programming, delivering educational talks, distributing blankets and food to people in vulnerable situations, teaching music classes, assisting with relocation efforts, and participating in open-air music and theater performances, contributing to education, culture, and social support."}];static ɵfac=function(c){return new(c||m)();};static ɵcmp=f({type:m,selectors:[["app-felipetiwamoto"]],decls:55,vars:133,consts:()=>{let d;d=" Portuguese ";let c;c=" English ";let l;l="EXPERIENCES";let i;i="ABOUT ME";let u;u="LANGUAGES";let S;S="COURSES";let v;v="SKILLS";let x;x="Frontend";let M;return M="Backend",[d,c,l,i,u,S,v,x,M,["href","/cv/pt"],["href","/cv/en"],[3,"hero"],[3,"contacts"],["name","briefcase-business",3,"size","strokeWidth"],[3,"experiences"],["name","user",3,"size","strokeWidth"],[3,"about"],["name","globe",3,"size","strokeWidth"],[3,"skills"],["name","graduation-cap",3,"size","strokeWidth"],[3,"courses"],["name","medal",3,"size","strokeWidth"]];},template:function(c,l){if(c&1&&(n(0,"div")(1,"div")(2,"ul")(3,"li")(4,"a",9),_(5,0),a()(),n(6,"li")(7,"a",10),_(8,1),a()()(),n(9,"div")(10,"div")(11,"div"),r(12,"resume-hero01",11),a(),n(13,"div"),r(14,"resume-contacts01",12),a()(),n(15,"div")(16,"div")(17,"div")(18,"div"),r(19,"i-lucide",13),n(20,"span"),_(21,2),a()(),r(22,"resume-experiences01",14),a()(),n(23,"div")(24,"div")(25,"div"),r(26,"i-lucide",15),n(27,"span"),_(28,3),a()(),r(29,"resume-about01",16),a(),n(30,"div")(31,"div"),r(32,"i-lucide",17),n(33,"span"),_(34,4),a()(),r(35,"resume-skills01",18),a(),n(36,"div")(37,"div"),r(38,"i-lucide",19),n(39,"span"),_(40,5),a()(),r(41,"resume-courses01",20),a(),n(42,"div")(43,"div"),r(44,"i-lucide",21),n(45,"span"),_(46,6),a()(),n(47,"div")(48,"span"),_(49,7),a(),r(50,"resume-skills01",18),a(),n(51,"div")(52,"span"),_(53,8),a(),r(54,"resume-skills01",18),a()()()()()()()),c&2){let i="resume";t(i),e(),t(o("",i,"__page")),e(),t(o("",i,"__lang")),e(),t(o("",i,"__lang_item")),e(),t(E("",i,"__lang_link ",l.localize.locale==="pt"?i+"__lang_link--active":"")),e(2),t(o("",i,"__lang_item")),e(),t(E("",i,"__lang_link ",l.localize.locale==="en"?i+"__lang_link--active":"")),e(2),t(o("",i,"__container")),e(),t(o("",i,"__top")),e(),t(o("",i,"__top_left")),e(),s("hero",l.hero),e(),t(o("",i,"__top_right")),e(),s("contacts",l.contacts),e(),t(o("",i,"__bottom")),e(),t(o("",i,"__bottom_left")),e(),t(o("",i,"__section")),e(),t(o("",i,"__section_title")),e(),t(o("",i,"__section_title_icon")),s("size",24)("strokeWidth",2),e(),t(o("",i,"__section_title_text")),e(2),s("experiences",l.experiences),e(),t(o("",i,"__bottom_right")),e(),t(o("",i,"__section")),e(),t(o("",i,"__section_title")),e(),t(o("",i,"__section_title_icon")),s("size",24)("strokeWidth",2),e(),t(o("",i,"__section_title_text")),e(2),s("about",l.about),e(),t(o("",i,"__section")),e(),t(o("",i,"__section_title")),e(),t(o("",i,"__section_title_icon")),s("size",24)("strokeWidth",2),e(),t(o("",i,"__section_title_text")),e(2),s("skills",l.languages),e(),t(o("",i,"__section")),e(),t(o("",i,"__section_title")),e(),t(o("",i,"__section_title_icon")),s("size",24)("strokeWidth",2),e(),t(o("",i,"__section_title_text")),e(2),s("courses",l.courses),e(),t(o("",i,"__section")),e(),t(o("",i,"__section_title")),e(),t(o("",i,"__section_title_icon")),s("size",24)("strokeWidth",2),e(),t(o("",i,"__section_title_text")),e(2),t(o("",i,"__sub_section")),e(),t(o("",i,"__section_sub_title")),e(2),s("skills",l.frontend),e(),t(o("",i,"__sub_section")),e(),t(o("",i,"__section_sub_title")),e(2),s("skills",l.backend);}},dependencies:[I,R,y,g,C,h,P,b],styles:[".resume[_ngcontent-%COMP%]{--resume_right_side: 100%;padding:60px 10px;background-color:var(--greye);display:flex;align-items:center;justify-content:center;flex-direction:initial}@media all and (min-width:768px){.resume[_ngcontent-%COMP%]{padding:100px 10px 50px;--resume_right_side: 200px}}.resume__page[_ngcontent-%COMP%]{position:relative;width:min(100%,25cm);min-height:33.7cm;padding:30px 10px;box-sizing:border-box;background-color:var(--greyf)}@media all and (min-width:768px){.resume__page[_ngcontent-%COMP%]{padding:90px}}.resume__lang[_ngcontent-%COMP%]{position:absolute;top:-40px;right:0;display:flex;align-items:center;justify-content:center;flex-direction:initial;margin-bottom:20px;column-gap:10px}.resume__lang_link[_ngcontent-%COMP%]{padding:5px 10px;font-size:14px;font-weight:300;letter-spacing:initial;line-height:initial;cursor:pointer;color:var(--grey7);border-radius:50px;background-color:var(--greyf)}.resume__lang_link--active[_ngcontent-%COMP%]{color:var(--resume01_primary);font-weight:600}.resume__container[_ngcontent-%COMP%]{width:min(100% - 20px,768px);margin-inline:auto;position:relative}.resume__top[_ngcontent-%COMP%]{display:grid;grid-template-columns:1fr;row-gap:30px}@media all and (min-width:768px){.resume__top[_ngcontent-%COMP%]{display:grid;grid-template-columns:1fr 200px;column-gap:30px;row-gap:0px}}.resume__top_right[_ngcontent-%COMP%]{width:var(--resume_right_side)}.resume__bottom[_ngcontent-%COMP%]{display:grid;grid-template-columns:1fr;row-gap:30px}@media all and (min-width:768px){.resume__bottom[_ngcontent-%COMP%]{grid-template-columns:1fr 200px;column-gap:30px;row-gap:0px}}.resume__bottom_right[_ngcontent-%COMP%]{width:var(--resume_right_side)}.resume__section[_ngcontent-%COMP%], .resume__sub_section[_ngcontent-%COMP%]{margin-top:30px}.resume__section_title[_ngcontent-%COMP%]{color:var(--resume01_primary);display:flex;align-items:center;justify-content:center;flex-direction:initial;margin-bottom:30px;text-align:center}.resume__section_title[_ngcontent-%COMP%]   i-lucide[_ngcontent-%COMP%]{margin-right:10px}@media all and (min-width:768px){.resume__section_title[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:initial;flex-direction:initial;text-align:left}}.resume__section_title_icon[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:initial;flex-direction:initial}.resume__section_title_text[_ngcontent-%COMP%]{font-size:18px;font-weight:400;letter-spacing:initial;line-height:initial;display:block}.resume__section_sub_title[_ngcontent-%COMP%]{font-size:14px;font-weight:300;letter-spacing:initial;line-height:initial;margin-bottom:15px;display:block;color:var(--grey7)}"]});};export{O as FelipeTiwamoto};/**i18n:6e3df05aac3d55a8718696d50ad78e922527b635cd9e1c53bf87806f3bd277e9*/
+import { a as I, b as R, c as y, d as C, e as h } from './chunk-K6VIZ7FM.js';
+import {
+	$a as b,
+	Aa as s,
+	Ba as n,
+	Ca as a,
+	Da as r,
+	Ea as A,
+	Fa as w,
+	Ja as _,
+	La as t,
+	Ma as z,
+	Na as $,
+	Ta as o,
+	Ua as E,
+	Xa as T,
+	ab as P,
+	ha as e,
+	pa as f,
+} from './chunk-HPM24GUC.js';
+var g = class m {
+	about = T();
+	static ɵfac = function (c) {
+		return new (c || m)();
+	};
+	static ɵcmp = f({
+		type: m,
+		selectors: [['resume-about01']],
+		inputs: { about: [1, 'about'] },
+		decls: 3,
+		vars: 6,
+		template: function (c, l) {
+			if ((c & 1 && (A(0, 'div')(1, 'span'), z(2), w()()), c & 2)) {
+				let i,
+					u = 'resume_about01';
+				(t(u), e(), t(o('', u, '__summary')), e(), $((i = l.about()) == null ? null : i.summary));
+			}
+		},
+		styles: [
+			'.resume_about01__summary[_ngcontent-%COMP%]{font-size:12px;font-weight:300;letter-spacing:initial;line-height:initial;color:var(--grey7);display:block}',
+		],
+	});
+};
+var O = class m {
+	localize = $localize;
+	hero = { name: 'Felipe Iwamoto', role: 'Senior Full-Stack Developer' };
+	contacts = [
+		{ icon: 'map-pin', description: 'Brazil - Curitiba/PR' },
+		{ icon: 'mail', description: 'felipe.t.iwamoto@gmail.com' },
+		{ icon: 'phone', description: '(11) 9.8455-6053' },
+		{ icon: 'external-link', description: `felipetiwamoto.github.io/cv/${this.localize.locale}` },
+	];
+	about = {
+		summary:
+			'Senior Full-Stack Developer with 9+ years of experience, specialized in Frontend with Angular 2+ and ReactJS. Expertise in creating scalable Design Systems, legacy migration, performance optimization, and automated testing implementation. Solid knowledge in TypeScript, RxJS, Redux, Node.js, and Clean Code/SOLID practices. Proven track record of technical leadership, team mentoring, and delivery of complex solutions in agile environments.',
+	};
+	languages = [
+		{ name: 'Portuguese', level: 10 },
+		{ name: 'English', level: 6 },
+		{ name: 'Japanese', level: 4 },
+	];
+	courses = [
+		{ institution: 'Opet College', name: 'Digital Games (Technical Degree)', timeSpent: ' 1y' },
+		{ institution: 'Udemy', name: 'Web Development', timeSpent: '54h' },
+		{ institution: 'Udemy', name: 'Reactive programming', timeSpent: '17h' },
+		{ institution: 'Udemy', name: 'PHP/Laravel/Symfony', timeSpent: '115h' },
+		{ institution: 'Udemy', name: 'Angular 2+', timeSpent: '29h' },
+		{ institution: 'Udemy', name: 'React/Redux', timeSpent: '54h' },
+		{ institution: 'Udemy', name: 'NodeJS', timeSpent: '15h' },
+		{ institution: 'Udemy', name: 'Design Pattern', timeSpent: '29h' },
+		{ institution: 'Udemy', name: 'SOLID', timeSpent: '5h' },
+		{ institution: 'Udemy', name: 'UI/UX Design', timeSpent: '77h' },
+	];
+	frontend = [
+		{ name: 'Angular 2+ (v18)', level: 9 },
+		{ name: 'ReactJS', level: 8 },
+		{ name: 'JavaScript', level: 7 },
+		{ name: 'TypeScript', level: 7 },
+		{ name: 'RxJS', level: 7 },
+		{ name: 'Redux', level: 6 },
+		{ name: 'HTML5', level: 9 },
+		{ name: 'CSS3 / SCSS', level: 9 },
+		{ name: 'Jest', level: 5 },
+		{ name: 'Docker / CI/CD', level: 5 },
+	];
+	backend = [
+		{ name: 'PHP', level: 5 },
+		{ name: 'Laravel', level: 5 },
+		{ name: 'Symfony', level: 5 },
+		{ name: 'NodeJS', level: 7 },
+		{ name: 'SQL', level: 5 },
+		{ name: 'SOLID', level: 6 },
+		{ name: 'Design Pattern', level: 5 },
+	];
+	experiences = [
+		{
+			company: 'Banco BS2',
+			startedAt: 'SEP 2022',
+			endedAt: ' JAN 2026',
+			responsabilities: [
+				'Architecture and development of corporate Design System with Angular 18.',
+				'Leadership in migration of legacy applications (Angular 12 \u2192 18).',
+				'Implementation of internationalization (i18n) and performance optimization.',
+				'Technical mentoring and Code Reviews focused on Clean Code and SOLID.',
+			],
+			softSkills: ['Technical Leadership;', 'Problem Solving;', 'Effective Communication;'],
+			hardSkills: ['Technical courses;'],
+			description:
+				'As a Senior Developer, I led the Frontend architecture, creating a robust Design System (components, directives, pipes) that standardized multiple bank products. Executed complex Angular version migrations, ensuring zero downtime. Implemented i18n strategies for global support (PT/EN/ZH) and promoted a code quality culture through mentoring and internal workshops.',
+		},
+		{
+			company: 'Tagme',
+			startedAt: 'JUN 2021',
+			endedAt: 'AUG 2022',
+			responsabilities: [
+				'Frontend Technical Leadership in new projects (Greenfield).',
+				'Definition of scalable architecture and technology choices.',
+				'Onboarding and technical training of the development team.',
+			],
+			softSkills: ['Technical Leadership;', 'Proactivity;'],
+			hardSkills: ['Technical courses;'],
+			description:
+				'Led the front-end team in the creation of a new project, working as a Senior Developer with a technical and architectural focus. Mentored new collaborators and conducted internal talks to train the team on technologies and best practices.',
+		},
+		{
+			company: 'Bitknot',
+			startedAt: ' JAN 2021',
+			endedAt: ' APR 2021',
+			responsabilities: [
+				'Full-Stack Development in international environment (Japan).',
+				'Legacy systems modernization and Landing Pages creation.',
+			],
+			softSkills: [' Adaptabilidade Cultural;', 'Global Remote Work;'],
+			description:
+				' Worked as a freelance developer for 4 months in a 100% Japanese team, developing everything from simple landing pages to maintaining and improving more complex systems. Experience with both legacy systems and modern applications, collaborating in a multicultural environment while following high technical and quality standards.',
+		},
+		{
+			company: 'Tuxon',
+			startedAt: ' FEB 2020',
+			endedAt: ' NOV 2020',
+			responsabilities: [
+				'Maintenance of existing systems.',
+				'Development of new features.',
+				'Creation of projects from scratch.',
+			],
+			softSkills: [
+				' Capacidade de persuas\xE3o;',
+				'Proactivity;',
+				'Ability to work under pressure;',
+				'Analytical skills;',
+			],
+			hardSkills: ['Technical courses;', ' habilidades ligadas \xE0 inform\xE1tica.'],
+			description:
+				'Maintenance of existing systems, development of new features, and creation of projects from scratch. Proactive profile, with strong analytical skills, ability to work under pressure, and good communication for technical alignment with the team.',
+		},
+		{
+			company: 'Interlink',
+			startedAt: ' OCT 2019',
+			endedAt: ' FEB 2020',
+			responsabilities: [
+				'Implementation of state architecture with Redux from scratch.',
+				'Full-Stack Development (ReactJS + Node.js) for American market.',
+			],
+			softSkills: [' Ingl\xEAs Fluente;', 'Autonomy;'],
+			description:
+				'Full-Stack Developer in international project (USA). Designed and implemented the entire state management layer with Redux, solving complex data flow problems. Worked on both Frontend (React) and Backend, ensuring application integrity and scalability.',
+		},
+		{
+			company: '4You2 Idiomas',
+			startedAt: 'APR 2019',
+			endedAt: 'SEP 2019',
+			responsabilities: [
+				'Mentoring new collaborators.',
+				'Maintenance of existing systems.',
+				'Development of new features.',
+				'Creation of projects from scratch.',
+			],
+			softSkills: [
+				'Proactivity;',
+				'Ability to work under pressure;',
+				'Technical Leadership;',
+				'Analytical skills;',
+			],
+			hardSkills: ['Knowledge of a foreign language;', 'Technical courses;'],
+			description:
+				'Work on the maintenance and evolution of existing systems, development of new features, and creation of projects from scratch. Strong experience using English on a daily basis, participating in dailies and technical alignments with native speakers, understanding requirements directly with the international team, and performing continuous implementations and adjustments. Active role in mentoring new collaborators, supporting onboarding, technical guidance, and professional growth, with a proactive, analytical profile and a strong sense of leadership.',
+		},
+		{
+			company: 'SPRO IT Solutions',
+			startedAt: 'SEP 2018',
+			endedAt: 'APR 2019',
+			responsabilities: [
+				'Maintenance of existing systems.',
+				'Development of new features.',
+				'Creation of projects from scratch.',
+			],
+			softSkills: ['Proactivity;', 'Ability to work under pressure;', 'Analytical skills;'],
+			hardSkills: ['Technical courses;'],
+			description:
+				'Worked on the maintenance of existing systems, development of new features, and creation of projects from scratch, with a strong focus on process automation. Mapped and understood manual tasks that previously took days or weeks to complete, creating automations that reduced execution time to seconds, significantly accelerating workflows and directly supporting other areas of the company.',
+		},
+		{
+			company: 'DevMaker',
+			startedAt: 'OCT 2017',
+			endedAt: 'SEP 2018',
+			responsabilities: [
+				'Maintenance of existing systems.',
+				'Development of new features.',
+				'Creation of projects from scratch.',
+			],
+			softSkills: ['Proactivity;', 'Ability to work under pressure;', 'Analytical skills;'],
+			hardSkills: ['Technical courses;'],
+			description:
+				'Despite holding a junior position, I identified a high project demand and the team\u2019s difficulty in maintaining the delivery pace. In alignment with the design team, I led the standardization of the company\u2019s components, creating reusable variations applied across all new projects. To enable this initiative, I conducted an in-depth study of frameworks such as Bootstrap, Material, and Semantic UI, developing a solution tailored to the company\u2019s needs, which contributed to reducing overtime and weekend work.',
+		},
+		{
+			company: '01Tec',
+			startedAt: 'APR 2015',
+			endedAt: 'SEP 2016',
+			responsabilities: ['Maintenance of existing systems.', 'Creation of projects from scratch.'],
+			softSkills: ['Proactivity;', 'Analytical skills;'],
+			hardSkills: ['Technical courses;'],
+			description:
+				'Internship experience where I started with basic knowledge in programming logic and evolved into full web development, learning HTML, CSS, JavaScript, jQuery, PHP, and MySQL, in addition to creating themes for WordPress. After the internship period, I worked as a freelancer for the company for a few months, contributing to additional projects.',
+		},
+		{
+			company: ' Community Services',
+			startedAt: 'APR 2015',
+			endedAt: 'SEP 2016',
+			responsabilities: [
+				' Teaching programming (Lovelace Project)',
+				' Giving talks.',
+				' Distributing blankets.',
+				' Distributing food.',
+				' Teaching music classes.',
+				' Helping people with moving.',
+				' Open-air music and theater performances.',
+			],
+			description:
+				' Volunteered in community initiatives, including teaching programming, delivering educational talks, distributing blankets and food to people in vulnerable situations, teaching music classes, assisting with relocation efforts, and participating in open-air music and theater performances, contributing to education, culture, and social support.',
+		},
+	];
+	static ɵfac = function (c) {
+		return new (c || m)();
+	};
+	static ɵcmp = f({
+		type: m,
+		selectors: [['app-felipetiwamoto']],
+		decls: 55,
+		vars: 133,
+		consts: () => {
+			let d;
+			d = ' Portuguese ';
+			let c;
+			c = ' English ';
+			let l;
+			l = 'EXPERIENCES';
+			let i;
+			i = 'ABOUT ME';
+			let u;
+			u = 'LANGUAGES';
+			let S;
+			S = 'COURSES';
+			let v;
+			v = 'SKILLS';
+			let x;
+			x = 'Frontend';
+			let M;
+			return (
+				(M = 'Backend'),
+				[
+					d,
+					c,
+					l,
+					i,
+					u,
+					S,
+					v,
+					x,
+					M,
+					['href', '/cv/pt'],
+					['href', '/cv/en'],
+					[3, 'hero'],
+					[3, 'contacts'],
+					['name', 'briefcase-business', 3, 'size', 'strokeWidth'],
+					[3, 'experiences'],
+					['name', 'user', 3, 'size', 'strokeWidth'],
+					[3, 'about'],
+					['name', 'globe', 3, 'size', 'strokeWidth'],
+					[3, 'skills'],
+					['name', 'graduation-cap', 3, 'size', 'strokeWidth'],
+					[3, 'courses'],
+					['name', 'medal', 3, 'size', 'strokeWidth'],
+				]
+			);
+		},
+		template: function (c, l) {
+			if (
+				(c & 1 &&
+					(n(0, 'div')(1, 'div')(2, 'ul')(3, 'li')(4, 'a', 9),
+					_(5, 0),
+					a()(),
+					n(6, 'li')(7, 'a', 10),
+					_(8, 1),
+					a()()(),
+					n(9, 'div')(10, 'div')(11, 'div'),
+					r(12, 'resume-hero01', 11),
+					a(),
+					n(13, 'div'),
+					r(14, 'resume-contacts01', 12),
+					a()(),
+					n(15, 'div')(16, 'div')(17, 'div')(18, 'div'),
+					r(19, 'i-lucide', 13),
+					n(20, 'span'),
+					_(21, 2),
+					a()(),
+					r(22, 'resume-experiences01', 14),
+					a()(),
+					n(23, 'div')(24, 'div')(25, 'div'),
+					r(26, 'i-lucide', 15),
+					n(27, 'span'),
+					_(28, 3),
+					a()(),
+					r(29, 'resume-about01', 16),
+					a(),
+					n(30, 'div')(31, 'div'),
+					r(32, 'i-lucide', 17),
+					n(33, 'span'),
+					_(34, 4),
+					a()(),
+					r(35, 'resume-skills01', 18),
+					a(),
+					n(36, 'div')(37, 'div'),
+					r(38, 'i-lucide', 19),
+					n(39, 'span'),
+					_(40, 5),
+					a()(),
+					r(41, 'resume-courses01', 20),
+					a(),
+					n(42, 'div')(43, 'div'),
+					r(44, 'i-lucide', 21),
+					n(45, 'span'),
+					_(46, 6),
+					a()(),
+					n(47, 'div')(48, 'span'),
+					_(49, 7),
+					a(),
+					r(50, 'resume-skills01', 18),
+					a(),
+					n(51, 'div')(52, 'span'),
+					_(53, 8),
+					a(),
+					r(54, 'resume-skills01', 18),
+					a()()()()()()()),
+				c & 2)
+			) {
+				let i = 'resume';
+				(t(i),
+					e(),
+					t(o('', i, '__page')),
+					e(),
+					t(o('', i, '__lang')),
+					e(),
+					t(o('', i, '__lang_item')),
+					e(),
+					t(E('', i, '__lang_link ', l.localize.locale === 'pt' ? i + '__lang_link--active' : '')),
+					e(2),
+					t(o('', i, '__lang_item')),
+					e(),
+					t(E('', i, '__lang_link ', l.localize.locale === 'en' ? i + '__lang_link--active' : '')),
+					e(2),
+					t(o('', i, '__container')),
+					e(),
+					t(o('', i, '__top')),
+					e(),
+					t(o('', i, '__top_left')),
+					e(),
+					s('hero', l.hero),
+					e(),
+					t(o('', i, '__top_right')),
+					e(),
+					s('contacts', l.contacts),
+					e(),
+					t(o('', i, '__bottom')),
+					e(),
+					t(o('', i, '__bottom_left')),
+					e(),
+					t(o('', i, '__section')),
+					e(),
+					t(o('', i, '__section_title')),
+					e(),
+					t(o('', i, '__section_title_icon')),
+					s('size', 24)('strokeWidth', 2),
+					e(),
+					t(o('', i, '__section_title_text')),
+					e(2),
+					s('experiences', l.experiences),
+					e(),
+					t(o('', i, '__bottom_right')),
+					e(),
+					t(o('', i, '__section')),
+					e(),
+					t(o('', i, '__section_title')),
+					e(),
+					t(o('', i, '__section_title_icon')),
+					s('size', 24)('strokeWidth', 2),
+					e(),
+					t(o('', i, '__section_title_text')),
+					e(2),
+					s('about', l.about),
+					e(),
+					t(o('', i, '__section')),
+					e(),
+					t(o('', i, '__section_title')),
+					e(),
+					t(o('', i, '__section_title_icon')),
+					s('size', 24)('strokeWidth', 2),
+					e(),
+					t(o('', i, '__section_title_text')),
+					e(2),
+					s('skills', l.languages),
+					e(),
+					t(o('', i, '__section')),
+					e(),
+					t(o('', i, '__section_title')),
+					e(),
+					t(o('', i, '__section_title_icon')),
+					s('size', 24)('strokeWidth', 2),
+					e(),
+					t(o('', i, '__section_title_text')),
+					e(2),
+					s('courses', l.courses),
+					e(),
+					t(o('', i, '__section')),
+					e(),
+					t(o('', i, '__section_title')),
+					e(),
+					t(o('', i, '__section_title_icon')),
+					s('size', 24)('strokeWidth', 2),
+					e(),
+					t(o('', i, '__section_title_text')),
+					e(2),
+					t(o('', i, '__sub_section')),
+					e(),
+					t(o('', i, '__section_sub_title')),
+					e(2),
+					s('skills', l.frontend),
+					e(),
+					t(o('', i, '__sub_section')),
+					e(),
+					t(o('', i, '__section_sub_title')),
+					e(2),
+					s('skills', l.backend));
+			}
+		},
+		dependencies: [I, R, y, g, C, h, P, b],
+		styles: [
+			'.resume[_ngcontent-%COMP%]{--resume_right_side: 100%;padding:60px 10px;background-color:var(--greye);display:flex;align-items:center;justify-content:center;flex-direction:initial}@media all and (min-width:768px){.resume[_ngcontent-%COMP%]{padding:100px 10px 50px;--resume_right_side: 200px}}.resume__page[_ngcontent-%COMP%]{position:relative;width:min(100%,25cm);min-height:33.7cm;padding:30px 10px;box-sizing:border-box;background-color:var(--greyf)}@media all and (min-width:768px){.resume__page[_ngcontent-%COMP%]{padding:90px}}.resume__lang[_ngcontent-%COMP%]{position:absolute;top:-40px;right:0;display:flex;align-items:center;justify-content:center;flex-direction:initial;margin-bottom:20px;column-gap:10px}.resume__lang_link[_ngcontent-%COMP%]{padding:5px 10px;font-size:14px;font-weight:300;letter-spacing:initial;line-height:initial;cursor:pointer;color:var(--grey7);border-radius:50px;background-color:var(--greyf)}.resume__lang_link--active[_ngcontent-%COMP%]{color:var(--resume01_primary);font-weight:600}.resume__container[_ngcontent-%COMP%]{width:min(100% - 20px,768px);margin-inline:auto;position:relative}.resume__top[_ngcontent-%COMP%]{display:grid;grid-template-columns:1fr;row-gap:30px}@media all and (min-width:768px){.resume__top[_ngcontent-%COMP%]{display:grid;grid-template-columns:1fr 200px;column-gap:30px;row-gap:0px}}.resume__top_right[_ngcontent-%COMP%]{width:var(--resume_right_side)}.resume__bottom[_ngcontent-%COMP%]{display:grid;grid-template-columns:1fr;row-gap:30px}@media all and (min-width:768px){.resume__bottom[_ngcontent-%COMP%]{grid-template-columns:1fr 200px;column-gap:30px;row-gap:0px}}.resume__bottom_right[_ngcontent-%COMP%]{width:var(--resume_right_side)}.resume__section[_ngcontent-%COMP%], .resume__sub_section[_ngcontent-%COMP%]{margin-top:30px}.resume__section_title[_ngcontent-%COMP%]{color:var(--resume01_primary);display:flex;align-items:center;justify-content:center;flex-direction:initial;margin-bottom:30px;text-align:center}.resume__section_title[_ngcontent-%COMP%]   i-lucide[_ngcontent-%COMP%]{margin-right:10px}@media all and (min-width:768px){.resume__section_title[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:initial;flex-direction:initial;text-align:left}}.resume__section_title_icon[_ngcontent-%COMP%]{display:flex;align-items:center;justify-content:initial;flex-direction:initial}.resume__section_title_text[_ngcontent-%COMP%]{font-size:18px;font-weight:400;letter-spacing:initial;line-height:initial;display:block}.resume__section_sub_title[_ngcontent-%COMP%]{font-size:14px;font-weight:300;letter-spacing:initial;line-height:initial;margin-bottom:15px;display:block;color:var(--grey7)}',
+		],
+	});
+};
+export { O as FelipeTiwamoto }; /**i18n:6e3df05aac3d55a8718696d50ad78e922527b635cd9e1c53bf87806f3bd277e9*/

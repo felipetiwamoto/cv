@@ -26,7 +26,7 @@ export class JaneRIwamoto {
 	public localize = $localize;
 
 	public hero: Resume['hero'] = {
-		name: $localize`:@@janeriwamoto_hero_name: Jane Iwamoto`,
+		name: $localize`:@@janeriwamoto_hero_name: Jane Iwamotooo`,
 		role: $localize`:@@janeriwamoto_hero_role: Analista de Operações`,
 	};
 	public contacts: Resume['contact'] = [

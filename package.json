@@ -5,7 +5,6 @@
 		"ng": "ng",
 		"start": "ng serve",
 		"build": "ng build",
-		"postbuild": "node scripts/create-static-routes.mjs",
 		"watch": "ng build --watch --configuration dev",
 		"test": "ng test",
 		"prepare": "husky",
